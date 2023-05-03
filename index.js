@@ -4,7 +4,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const latesCategory = require('./data/latesarticles.json')
 const chefData = require('./data/chefs.json')
-
+const topchef = require('./data/topchef.json')
 app.use(cors());
 
 
@@ -16,15 +16,21 @@ app.get('/latesarticles',(req, res) =>{
     res.send(latesCategory)
 })
 
+app.get('/topChef',(req, res) =>{
+    res.send(topchef)
+})
+
 app.get('/chefData', (req, res) =>{
     res.send(chefData)
 })
 
+
 app.get('/chefData/:id', (req, res) =>{
     const id = req.params.id
     console.log(id);
-   if(id < 7) {
-    const chefDetails =chefData.find(d => d.id == id) 
+   if(id) {
+    const chefDetails =chefData.filter(d => d.category_id == id) 
+    console.log(chefDetails);
     res.send(chefDetails)
    }
    else{
