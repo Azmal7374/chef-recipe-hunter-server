@@ -29,8 +29,7 @@ app.get('/chefData/:id', (req, res) =>{
     const id = req.params.id
     console.log(id);
    if(id) {
-    const chefDetails =chefData.filter(d => d.category_id == id) 
-    console.log(chefDetails);
+    const chefDetails =chefData.filter(d => d.recipe_id == id) 
     res.send(chefDetails)
    }
    else{
