@@ -2,55 +2,197 @@
        {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "recipe_id": "1",
-      "cooking_rating": { "number": 4.5, "badge": "Excellent" },
+      "cooking_rating": { "number": 4.2, "badge": "Excellent" },
       "like": 10,
       "numberofRecipes": 100,
-      "recipeTitle": "Khurbo",
+      "recipeTitle": "Bhuri Bhuna",
       "chef": {
         "name": "Ahmed Hossain",
         "experience":8,
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
       },
-      "ingredirents":["A","B","C"],
+      "ingredirents":["2 cups boiled and chopped Beef Tripe","1 cup chopped cube potatoes (optional)","3 tablespoon chopped onions","3 dry red chillies","3 tablespoon mustard oil","1.5 teaspoon termeric powder","2 teaspoon red chilli powder","3 teaspoon Coriander powder","2 teaspoon cumin powder"],
+      "cookingMethods":"Clean the beef stomach well 5 to 6 times with hot water and boil them with ½ teaspoon turmeric, 1 bay leaf and ½ tablespoon salt. I prefer to use pressure cooker to boil he stomach. It will need 4 whistles to boil the beef stomach.",
       "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
       
        },
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "recipe_id": "1",
+        "cooking_rating": { "number": 4.6, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Chicken Curry",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["Chicken (500 gm)"," Red Chilli powder (1.5 tsp)","Soya bean oil (5 tbsp)"," Turmeric powder (1 tsp)","Onion (3 medium size sliced)","Ginger paste (1 tsp)"," Garlic paste (1 tbsp)","Cumin fried powder (1 tsp)"],
+        "cookingMethods":"Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute.",
+
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 3.2, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Palm Fruit Malpua ",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":[" cup pulp of Palmyra"," cup semolina","cup refined flour"," cup grated coconut","tbsp fennel seeds","cup milk"],
+        "cookingMethods":"In a large mixing bowl take refined flour, semolina, grated palm jaggery, fennel and cardamom powder. Add milk, mix slowly in one direction ensuring there are no lumps in the batter, later add water and mix well, batter to be of smooth pouring consistency.",
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
         "cooking_rating": { "number": 4.1, "badge": "Excellent" },
         "like": 10,
         "numberofRecipes": 100,
-        "recipeTitle": "Bhuna Khichuri",
+        "recipeTitle": "Khurbo",
         "chef": {
           "name": "Ahmed Hossain",
           "experience":8,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":["A","B","C"],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        "ingredirents":["1 chicken breast","1/2 tsp. salt","1/4 tsp. turmeric powder","1/4 tsp. red chili powder","1 tsp. oil","3-4 dry red chilies","4-5 garlic cloves","1 tsp. lemon juice or to taste","pinch salt (opt)"],
+        "cookingMethods":"Heat butter in pan and add garlic paste in it. Sauté for a min.Add all the vegetables and stir fry for 5 min.Add salt, white pepper and oregano in it.Add milk in pan and let it come to a boil.",
+        "detaAdd all the vegetables and stir fry for 5 min.ils":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
         
       },
+
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "recipe_id": "1",
-        "cooking_rating": { "number": 3, "badge": "Excellent" },
+        "cooking_rating": { "number": 4.0, "badge": "Excellent" },
         "like": 10,
         "numberofRecipes": 100,
-        "recipeTitle": "Panta Ilish",
+        "recipeTitle": "Dimer Shashranga",
         "chef": {
           "name": "Ahmed Hossain",
           "experience":8,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":["A","B","C"],
+        "ingredirents":["1 Cup Fresh Onion Birista","200-250 gms Plain Yoghurt + 1/2 tsp Sugar: Well Whisked","3-4 Tempering Spices: Green Cardamoms","4-5 Cloves","1 inch Cinnamon Stick","1 Onion: Finely Chopped or Pasted","1 tbsp Black Peppercorns: Freshly Cracked"],
+        "cookingMethods":" The Egg Yolks & Whites need be separated & very carefully set aside for its later use, as & when required ",
         "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
         
       },
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
+        "cooking_rating": { "number": 5.2, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Bangladeshi salad",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["Half cup carrot cubes","Half cup potato cubes","2 tbs matar","1 tbs oil","Pinch salt","Pinch black pepper"],
+        "cookingMethods":"The base salad is so good that you probably won't need anything else, but you can definitely add other things too. You can add some sliced apple, roasted root vegetables, fried tofu or even stir fried shrimp.",
+
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 2.5, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Puin-Chingri",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["1 tsp PanchPhoron","1 tsp Red Chilli Powder","1/2 tsp Turmeric","as per taste Water (Warm)","2-3 tbsps Shredded Coconut: Any- Fresh or Desiccated","4 tbsps Mustard Oil: (Mandatory)"],
+        "cookingMethods":"6-8 Prawns/Shrimps: Shelled & Veined- (Lightly sautéed with some salt & turmeric).250-300 gms Basalle Alba Spinach/Puin Shaak- Commonly known as the Malabar Spinach in India- though both aren’t the same…however it belongs to the same family/species)",
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 6.5, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": " Cauliflower Korma",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["1 medium size cauliflower","1 medium size onion","5-6 garlic pods","2 inch ginger","4 green chillies","9-10 cashew nuts"],
+        "cookingMethods":"Korma is a mild, coconut milk–based curry, a great way to introduce more complex and fragrant spices to your cooking. Our plant-forward version is simple to.",
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 3.5, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Chotpoti ",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["200 grams boiled matar","1 tablespoon red chilli powder","1 tablespoon Panch phoron","1 tablespoon jeera","10 cloves","10 black pepper"],
+        "cookingMethods":"1 and 1/2 cup of whitevatana or white peas , soaked in water overnight with 1/2 tea spoon baking soda.1 tbl spoon – 1 and 1/2 tbl spoon Chat Masala1 and 1/2 tea spoon dry roasted cumin powder ( bhaja jeera gura )1 tea spoon coarsly grounded lightly roasted whole coriander powder ( asto dhonia gura )",
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 2.5, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Prawn",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["2 large handfuls of small prawns","Lotha (Bangladeshi beans) as much as you like","1 tspn mixed curry powder","Water","2 Onions","Coriander to garnish"],
+        "cookingMethods":"Marinate prawns with 1 tablespoon of the olive oil, salt and pepper for just 20 minutes, if you have time (otherwise skip it). Don’t marinate for longer as the salt will draw too much moisture out of the delicate prawn flesh and make them watery.",
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 5.1, "badge": "Excellent" },
+        "like": 10,
+        "numberofRecipes": 100,
+        "recipeTitle": "Thai Soup",
+        "chef": {
+          "name": "Ahmed Hossain",
+          "experience":8,
+          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
+        },
+        "ingredirents":["1 cup Chicken breast","Half cup prawns","2 eggs","4 slices Thai ginger or normal ginger","4-5 Green chillies","1 stick Lemon grass - Finley chopped","3 tbsp tomato ketchup"],
+        "cookingMethods":"Place the carrots, red pepper, mushrooms, chicken, curry paste, sugar and broth into a 6 quart Instant Pot.Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 4 minutes (timer will begin counting down once pressure is reached- it takes about 15 minutes). When done, press Cancel and use the quick release method to release the pressure.",
+        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+        
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "recipe_id": "1",
+        "cooking_rating": { "number": 2.3, "badge": "Excellent" },
         "like": 10,
         "numberofRecipes": 100,
         "recipeTitle": "Kacchi Biryani",
@@ -59,135 +201,8 @@
           "experience":8,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":["A","B","C"],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-        
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "recipe_id": "1",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 10,
-        "numberofRecipes": 100,
-        "recipeTitle": "Khurbo",
-        "chef": {
-          "name": "Ahmed Hossain",
-          "experience":8,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
+        "ingredirents":["1 1/2 kg chicken","1 teaspoon ginger paste","2 teaspoon garlic paste","3-4 dry red chilli","2-3 stick cinnamon, half inches each","4-5 green cardamom","1 teaspoon cumin"],
+        "cookingMethods":"Prepare the fried onions by deep-frying in hot oil. Separate the strands of the sliced onions with your hands. Keep the flame low to medium all time, stir in between to fry evenly and fry till you see the onions changing shades for about 4 mins. Remove the onions with a slotted spoon on time before they get burnt. The onions will continue to cook even when you take them out, so remove them when you see the golden light brown shade. Spread the fried onions on a paper towel to drain the excess oil (It will become crispy as it cools). Let it cool completely before storing it in an airtight box and in the freezer.",
         "details":"Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
         
       },
@@ -203,29 +218,31 @@
       "cooking_rating": { "number": 4.5, "badge": "Excellent" },
       "like":8,
       "numberofRecipes": 50,
-      "recipeTitle": "Chicken Currry",
+      "recipeTitle": "Omelette",
       "chef": {
         "name": "Tony",
         "experience":10,
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
       },
-       "ingredirents":[],
+       "ingredirents":["2 eggs","1 onion","1 chilli","1 handful corriander","1/4 Teaspoon Chilli powder","1/4 Teaspoon Cumin powder","1/4 Teaspoon Turmeric powder"],
+       "cookingMethods":"Beat the eggs: Use two or three eggs per omelette, depending on how hungry you are. Beat the eggs lightly with a fork.Melt the butter: Use an 8-inch nonstick skillet for a 2-egg omelette, a 9-inch skillet for 3 eggs. Melt the butter over medium-low heat, and keep the temperature low and slow when cooking the eggs so the bottom doesn’t get too brown or overcooked.",
        "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },  
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         
         "recipe_id": "2",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
+        "cooking_rating": { "number": 6.5, "badge": "Excellent" },
         "like":8,
         "numberofRecipes": 50,
-        "recipeTitle": "Morog Polao",
+        "recipeTitle": " Fried Eggplant",
         "chef": {
           "name": "Tony",
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["2 medium size Eggplant","Salt as required","1/4 teaspoon brown sugar","1 teaspoon turmeric powder","1 1/2 tsp red chilli powder"],
+         "cookingMethods":"Wash the eggplants and slice them into 1/2-inch slices. Lay the eggplants on a platter lined with paper towels and sprinkle them with salt. Allow them to rest for about 30 minutes, until they've released their moisture. Pat theslices with paper towels, turn  themoverand repeat on the other side.",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },   
        {
@@ -235,13 +252,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like":8,
         "numberofRecipes": 50,
-        "recipeTitle": " Jhalmuri ",
+        "recipeTitle": " Seviyan Kheer ",
         "chef": {
           "name": "Tony",
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["2 tablespoons butter or ghee","1/2 cup vermicelli broken into pieces","2 cups milk","1/4 cup slivered pistachios","1/2 cup grated coconut","1/4 teaspoon cardamom powder"],
+         "cookingMethods":"Heat 1 tablespoon ghee in a heavy kadai or pan. Add 3 cloves. Fry for 2 to 3 seconds. Including cloves is optional. Add 1 cup broken seviyan or vermicelli or semiya. If the vermicelli strands are very long then break them with your hands prior to roasting.",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },    
       {
@@ -251,13 +269,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like":8,
         "numberofRecipes": 50,
-        "recipeTitle": "Chingri Malai Curry",
+        "recipeTitle": "Maggi Spicy mixed Fried Rice ",
         "chef": {
           "name": "Tony",
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["1 Maggi noodles","1.5 cup chinigura rice","2 packets Maggi shaad e magic masala","1 large boiled egg chopped in small pieces","1/2 cup Julian cut chicken","Soya sauce as required","1 teaspoon lemon juice"],
+         "cookingMethods":"Use a Large Wok or Large, Deep Pan. You’ll want to use a wok that’s quite large in order to allow the rice plenty of room to spread out and fry without overcooking. It also allows for easy tossing and mixing without ingredients spilling over or falling to the floor. Work Quickly. Have your ingredients measured, chopped, and ready to go. Allow the wok to heat up completely. Then work quickly, keeping the ingredients moving to cook and combine so that they do not char or burn. ",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },  
       {
@@ -267,13 +286,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like":8,
         "numberofRecipes": 50,
-        "recipeTitle": "Shorshe Ilish",
+        "recipeTitle": "Amra Chutney",
         "chef": {
           "name": "Tony",
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["1 kg Fresh Hog Plum","Sugar as required","1 pinch black salt","1/2 teaspoon salt","2 bay leaves","1/4 cup white vinegar","1 tablespoon mustard oil"],
+         "cookingMethods":"Just wash and dry them. Cut a small portion from the stem part and boil while you cook your rice. Here I must mention we cook rice by the water separation method, similar as cooking pasta. If you follow the absorption method or cook rice using a rice cooker then make sure you take them out before all the water is absorbed or the hog plums will get stuck to rice. Once they are softened take them out and mash as much as possible with salt as per taste and sugar. It should not be very sweet rather there should be a good balance between sweet-sour-salty-and heat from chilies. So mash the chillies next and serve as an accompaniment with rice or khuder bhat (Bengali style broken rice congee).",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },   
       {
@@ -289,7 +309,8 @@
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["Meat","Wheat", "Lentils", "Onions", "Ginger", "Garlic"],
+         "cookingMethods":"Lamb, goat or beef is traditional. But you can try chicken or veal too. I like to use meat with bones for extra flavor. If you use boneless meat, try to use stock as the cooking liquid.raditional recipes use whole soft-wheat grains sold as “haleem wheat” at Indian grocery stores. But you can use cracked wheat that is widely available. I also like to add pearl barley as it gives a nice consistency.",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },
       {
@@ -305,7 +326,8 @@
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["1 Kg Chicken","3 large Onions (paste)","2 Tomatoes, pureed","1 tbsp Garlic Paste","1 tbsp Ginger Paste","2 tsp Coriander Powder"],
+         "cookingMethods":"A super delicious Indian chicken curry made with a blend of spices and in a jiffy! Juggling with an unexpectedly sudden dinner party? Or don't feel like cooking much but still craving a chicken dish? Here's a quick chicken curry to your rescue!Ingredients of Quick Chicken Curry Recipe: With a mix of ginger garlic along with flavourful spices such as jeera, turmeric and red chilli powder cooked with tomatoes and simmered with chicken pieces, this chicken recipe is surprisingly quick to cook and will make you a super hit host.",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },
       {
@@ -315,13 +337,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like":8,
         "numberofRecipes": 50,
-        "recipeTitle": "Chicken Currry",
+        "recipeTitle": " Radish Greens stir fry ",
         "chef": {
           "name": "Tony",
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["3 cup clean and chopped radish green leaf","2 tablespoon chopped onions","2 green chillies","2 dry red chilli","1 teaspoon chopped garlic"],
+         "cookingMethods":"First heat the skillet/ frying pan/ wok over high heat until hot.Spread the ingredients over the pan, and stir them constantly thoroughly.Leafy greens including radish tops will release much water as cooking, stir-frying over high temperature is the essential key to making it delicious.Especially, if you want to store radish green stir fry for a few days, cook it until you don’t see the water on the bottom.",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
       },
       {
@@ -331,13 +354,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like":8,
         "numberofRecipes": 50,
-        "recipeTitle": "Chicken Currry",
+        "recipeTitle": " Sabudana Dessert",
         "chef": {
           "name": "Tony",
           "experience":10,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg"
         },
-         "ingredirents":[],
+         "ingredirents":["2 cup sago","1/4 cup evaporated milk","1 cup liquid milk","1 tablespoon pistachio paste","1/4 cup sugar","Dryfruits to taste","1 pinch salt"],
+         "cookingMethods":"You will have to prepare the sabudana one day before you actually have to cook its recipe.Take a bowl of sabudana and wash it properly under tap water. Drain the water and wash again.Soak the sabudana overnight or for at least 4 hours prior to cooking. Make sure you don’t soak it in too much water. Only fill it up till the level of sabudana.",
          "details":"Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
          
       },
@@ -354,13 +378,15 @@
       "cooking_rating": { "number": 4.8, "badge": "Excellent" },
       "like": 2,
       "numberofRecipes": 70,
-      "recipeTitle": "Bhuri Bhuna",
       "chef": {
         "name": "Manik Miah",
         "experience":6,
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
       },
-      "ingredirents":[],
+      "recipeTitle": "Bhuri Bhuna",
+ "ingredirents":["2 cups boiled and chopped Beef Tripe","1 cup chopped cube potatoes (optional)","3 tablespoon chopped onions","3 dry red chillies","3 tablespoon mustard oil","1.5 teaspoon termeric powder","2 teaspoon red chilli powder","3 teaspoon Coriander powder","2 teaspoon cumin powder"],
+ "cookingMethods":"Clean the beef stomach well 5 to 6 times with hot water and boil them with ½ teaspoon turmeric, 1 bay leaf and ½ tablespoon salt. I prefer to use pressure cooker to boil he stomach. It will need 4 whistles to boil the beef stomach.",
+
       "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
     },
     {
@@ -370,13 +396,15 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Rasgulla",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        
+ "recipeTitle": "Palm Fruit Malpua ",
+ "ingredirents":[" cup pulp of Palmyra"," cup semolina","cup refined flour"," cup grated coconut","tbsp fennel seeds","cup milk"],
+         "cookingMethods":"In a large mixing bowl take refined flour, semolina, grated palm jaggery, fennel and cardamom powder. Add milk, mix slowly in one direction ensuring there are no lumps in the batter, later add water and mix well, batter to be of smooth pouring consistency.",
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
 
@@ -387,13 +415,14 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": " Ras Malai",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Chicken Curry",
+         "ingredirents":["Chicken (500 gm)"," Red Chilli powder (1.5 tsp)","Soya bean oil (5 tbsp)"," Turmeric powder (1 tsp)","Onion (3 medium size sliced)","Ginger paste (1 tsp)"," Garlic paste (1 tbsp)","Cumin fried powder (1 tsp)"],
+        "cookingMethods":"Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute.",
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
 
@@ -404,13 +433,14 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Khurbo",
+ "ingredirents":["1 chicken breast","1/2 tsp. salt","1/4 tsp. turmeric powder","1/4 tsp. red chili powder","1 tsp. oil","3-4 dry red chilies","4-5 garlic cloves","1 tsp. lemon juice or to taste","pinch salt (opt)"],
+        "cookingMethods":"Heat butter in pan and add garlic paste in it. Sauté for a min.Add all the vegetables and stir fry for 5 min.Add salt, white pepper and oregano in it.Add milk in pan and let it come to a boil.",
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
 
@@ -421,13 +451,17 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+       
+"recipeTitle": "Dimer Shashranga",
+"ingredirents":["1 Cup Fresh Onion Birista","200-250 gms Plain Yoghurt + 1/2 tsp Sugar: Well Whisked","3-4 Tempering Spices: Green Cardamoms","4-5 Cloves","1 inch Cinnamon Stick","1 Onion: Finely Chopped or Pasted","1 tbsp Black Peppercorns: Freshly Cracked"],
+  "cookingMethods":" The Egg Yolks & Whites need be separated & very carefully set aside for its later use, as & when required ",
+
+
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
 
@@ -438,13 +472,14 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Bangladeshi salad",
+        "ingredirents":["Half cup carrot cubes","Half cup potato cubes","2 tbs matar","1 tbs oil","Pinch salt","Pinch black pepper"],
+      "cookingMethods":"The base salad is so good that you probably won't need anything else, but you can definitely add other things too. You can add some sliced apple, roasted root vegetables, fried tofu or even stir fried shrimp.",
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
       {
@@ -454,13 +489,14 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Puin-Chingri",
+        "ingredirents":["1 tsp PanchPhoron","1 tsp Red Chilli Powder","1/2 tsp Turmeric","as per taste Water (Warm)","2-3 tbsps Shredded Coconut: Any- Fresh or Desiccated","4 tbsps Mustard Oil: (Mandatory)"],
+              "cookingMethods":"6-8 Prawns/Shrimps: Shelled & Veined- (Lightly sautéed with some salt & turmeric).250-300 gms Basalle Alba Spinach/Puin Shaak- Commonly known as the Malabar Spinach in India- though both aren’t the same…however it belongs to the same family/species)",
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
       {
@@ -470,13 +506,15 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Prawn",
+   "ingredirents":["2 large handfuls of small prawns","Lotha (Bangladeshi beans) as much as you like","1 tspn mixed curry powder","Water","2 Onions","Coriander to garnish"],
+        "cookingMethods":"Marinate prawns with 1 tablespoon of the olive oil, salt and pepper for just 20 minutes, if you have time (otherwise skip it). Don’t marinate for longer as the salt will draw too much moisture out of the delicate prawn flesh and make them watery.",
+
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
       {
@@ -486,13 +524,15 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Thai Soup",
+        "ingredirents":["1 cup Chicken breast","Half cup prawns","2 eggs","4 slices Thai ginger or normal ginger","4-5 Green chillies","1 stick Lemon grass - Finley chopped","3 tbsp tomato ketchup"],
+              "cookingMethods":"Place the carrots, red pepper, mushrooms, chicken, curry paste, sugar and broth into a 6 quart Instant Pot.Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 4 minutes (timer will begin counting down once pressure is reached- it takes about 15 minutes). When done, press Cancel and use the quick release method to release the pressure.",
+      
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
       {
@@ -502,13 +542,15 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Omelette",
+        "ingredirents":["2 eggs","1 onion","1 chilli","1 handful corriander","1/4 Teaspoon Chilli powder","1/4 Teaspoon Cumin powder","1/4 Teaspoon Turmeric powder"],
+              "cookingMethods":"Beat the eggs: Use two or three eggs per omelette, depending on how hungry you are. Beat the eggs lightly with a fork.Melt the butter: Use an 8-inch nonstick skillet for a 2-egg omelette, a 9-inch skillet for 3 eggs. Melt the butter over medium-low heat, and keep the temperature low and slow when cooking the eggs so the bottom doesn’t get too brown or overcooked.",
+       
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
       {
@@ -518,13 +560,16 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+       
+ "recipeTitle": "Amra Chutney",
+ "ingredirents":["1 kg Fresh Hog Plum","Sugar as required","1 pinch black salt","1/2 teaspoon salt","2 bay leaves","1/4 cup white vinegar","1 tablespoon mustard oil"],
+   "cookingMethods":"Just wash and dry them. Cut a small portion from the stem part and boil while you cook your rice. Here I must mention we cook rice by the water separation method, similar as cooking pasta. If you follow the absorption method or cook rice using a rice cooker then make sure you take them out before all the water is absorbed or the hog plums will get stuck to rice. Once they are softened take them out and mash as much as possible with salt as per taste and sugar. It should not be very sweet rather there should be a good balance between sweet-sour-salty-and heat from chilies. So mash the chillies next and serve as an accompaniment with rice or khuder bhat (Bengali style broken rice congee).",
+
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
       {
@@ -534,31 +579,18 @@
         "cooking_rating": { "number": 4.8, "badge": "Excellent" },
         "like": 2,
         "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
         "chef": {
           "name": "Manik Miah",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Haleem",
+        "ingredirents":["Meat","Wheat", "Lentils", "Onions", "Ginger", "Garlic"],
+                 "cookingMethods":"Lamb, goat or beef is traditional. But you can try chicken or veal too. I like to use meat with bones for extra flavor. If you use boneless meat, try to use stock as the cooking liquid.raditional recipes use whole soft-wheat grains sold as “haleem wheat” at Indian grocery stores. But you can use cracked wheat that is widely available. I also like to add pearl barley as it gives a nice consistency.",
+        
         "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
       },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71011"
-        ,
-        "recipe_id": "3",
-        "cooking_rating": { "number": 4.8, "badge": "Excellent" },
-        "like": 2,
-        "numberofRecipes": 70,
-        "recipeTitle": "Bhuri Bhuna",
-        "chef": {
-          "name": "Manik Miah",
-          "experience":6,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
-      },
+      
 
 
 
@@ -570,13 +602,16 @@
       "cooking_rating": { "number": 4.3, "badge": "Excellent" },
       "like": 4,
       "numberofRecipes": 40,
-      "recipeTitle": "Puin-Chingri",
       "chef": {
         "name": "Mr. Feroze Khan",
         "experience": 7,
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
       },
-      "ingredirents":[],
+      "recipeTitle": " Radish Greens stir fry ",
+"ingredirents":["3 cup clean and chopped radish green leaf","2 tablespoon chopped onions","2 green chillies","2 dry red chilli","1 teaspoon chopped garlic"],
+ "cookingMethods":"First heat the skillet/ frying pan/ wok over high heat until hot.Spread the ingredients over the pan, and stir them constantly thoroughly.Leafy greens including radish tops will release much water as cooking, stir-frying over high temperature is the essential key to making it delicious.Especially, if you want to store radish green stir fry for a few days, cook it until you don’t see the water on the bottom.",
+  
+
       "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
     },
     {
@@ -586,13 +621,18 @@
         "cooking_rating": { "number": 4.3, "badge": "Excellent" },
         "like": 4,
       "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
         "chef": {
           "name": "Mr. Feroze Khan",
           "experience": 7,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+      
+
+        "recipeTitle": " Seviyan Kheer ",
+        "ingredirents":["2 tablespoons butter or ghee","1/2 cup vermicelli broken into pieces","2 cups milk","1/4 cup slivered pistachios","1/2 cup grated coconut","1/4 teaspoon cardamom powder"],
+    
+               "cookingMethods":"Heat 1 tablespoon ghee in a heavy kadai or pan. Add 3 cloves. Fry for 2 to 3 seconds. Including cloves is optional. Add 1 cup broken seviyan or vermicelli or semiya. If the vermicelli strands are very long then break them with your hands prior to roasting.",
+  
         "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
       },
       {
@@ -602,95 +642,17 @@
         "cooking_rating": { "number": 4.3, "badge": "Excellent" },
         "like": 4,
         "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
         "chef": {
           "name": "Mr. Feroze Khan",
           "experience": 7,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Kacchi Biryani",
+        "ingredirents":["1 1/2 kg chicken","1 teaspoon ginger paste","2 teaspoon garlic paste","3-4 dry red chilli","2-3 stick cinnamon, half inches each","4-5 green cardamom","1 teaspoon cumin"],
+               "cookingMethods":"Prepare the fried onions by deep-frying in hot oil. Separate the strands of the sliced onions with your hands. Keep the flame low to medium all time, stir in between to fry evenly and fry till you see the onions changing shades for about 4 mins. Remove the onions with a slotted spoon on time before they get burnt. The onions will continue to cook even when you take them out, so remove them when you see the golden light brown shade. Spread the fried onions on a paper towel to drain the excess oil (It will become crispy as it cools). Let it cool completely before storing it in an airtight box and in the freezer.",
         "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
       },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        
-        "recipe_id": "4",
-        "cooking_rating": { "number": 4.3, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
-        "chef": {
-          "name": "Mr. Feroze Khan",
-          "experience": 7,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
-      },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        
-        "recipe_id": "4",
-        "cooking_rating": { "number": 4.3, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
-        "chef": {
-          "name": "Mr. Feroze Khan",
-          "experience": 7,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
-      },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        
-        "recipe_id": "4",
-        "cooking_rating": { "number": 4.3, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
-        "chef": {
-          "name": "Mr. Feroze Khan",
-          "experience": 7,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
-      },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        
-        "recipe_id": "4",
-        "cooking_rating": { "number": 4.3, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
-        "chef": {
-          "name": "Mr. Feroze Khan",
-          "experience": 7,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
-      } ,
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        
-        "recipe_id": "4",
-        "cooking_rating": { "number": 4.3, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 40,
-        "recipeTitle": "Puin-Chingri",
-        "chef": {
-          "name": "Mr. Feroze Khan",
-          "experience": 7,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
-      } , 
+       
  
 
 
@@ -706,13 +668,16 @@
       "cooking_rating": { "number": 4.5, "badge": "Excellent" },
       " like": 6,
       "numberofRecipes": 60,
-      "recipeTitle": "Dimer Kosha",
       "chef": {
         "name": "Shelly Nuruzzaman",
         "experience":6,
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
       },
-      "ingredirents":[],
+      "recipeTitle": "Thai Soup",
+  "ingredirents":["1 cup Chicken breast","Half cup prawns","2 eggs","4 slices Thai ginger or normal ginger","4-5 Green chillies","1 stick Lemon grass - Finley chopped","3 tbsp tomato ketchup"],
+        "cookingMethods":"Place the carrots, red pepper, mushrooms, chicken, curry paste, sugar and broth into a 6 quart Instant Pot.Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 4 minutes (timer will begin counting down once pressure is reached- it takes about 15 minutes). When done, press Cancel and use the quick release method to release the pressure.",
+
+
       "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
     },
     {
@@ -722,13 +687,16 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+     
+"recipeTitle": "Omelette",
+"ingredirents":["2 eggs","1 onion","1 chilli","1 handful corriander","1/4 Teaspoon Chilli powder","1/4 Teaspoon Cumin powder","1/4 Teaspoon Turmeric powder"],
+      "cookingMethods":"Beat the eggs: Use two or three eggs per omelette, depending on how hungry you are. Beat the eggs lightly with a fork.Melt the butter: Use an 8-inch nonstick skillet for a 2-egg omelette, a 9-inch skillet for 3 eggs. Melt the butter over medium-low heat, and keep the temperature low and slow when cooking the eggs so the bottom doesn’t get too brown or overcooked.",
+
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -738,13 +706,16 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+     
+"recipeTitle": " Fried Eggplant",
+"ingredirents":["2 medium size Eggplant","Salt as required","1/4 teaspoon brown sugar","1 teaspoon turmeric powder","1 1/2 tsp red chilli powder"],
+        "cookingMethods":"Wash the eggplants and slice them into 1/2-inch slices. Lay the eggplants on a platter lined with paper towels and sprinkle them with salt. Allow them to rest for about 30 minutes, until they've released their moisture. Pat theslices with paper towels, turn  themoverand repeat on the other side.",
+
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -754,13 +725,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Chicken Curry",
+        "ingredirents":["Chicken (500 gm)"," Red Chilli powder (1.5 tsp)","Soya bean oil (5 tbsp)"," Turmeric powder (1 tsp)","Onion (3 medium size sliced)","Ginger paste (1 tsp)"," Garlic paste (1 tbsp)","Cumin fried powder (1 tsp)"],
+              "cookingMethods":"Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute.",
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -770,13 +742,15 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+     
+ "recipeTitle": "Khurbo",
+ "ingredirents":["1 chicken breast","1/2 tsp. salt","1/4 tsp. turmeric powder","1/4 tsp. red chili powder","1 tsp. oil","3-4 dry red chilies","4-5 garlic cloves","1 tsp. lemon juice or to taste","pinch salt (opt)"],
+        "cookingMethods":"Heat butter in pan and add garlic paste in it. Sauté for a min.Add all the vegetables and stir fry for 5 min.Add salt, white pepper and oregano in it.Add milk in pan and let it come to a boil.",
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -786,13 +760,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Bangladeshi salad",
+        "ingredirents":["Half cup carrot cubes","Half cup potato cubes","2 tbs matar","1 tbs oil","Pinch salt","Pinch black pepper"],
+      "cookingMethods":"The base salad is so good that you probably won't need anything else, but you can definitely add other things too. You can add some sliced apple, roasted root vegetables, fried tofu or even stir fried shrimp.",
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -802,13 +777,15 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+      
+        "recipeTitle": "Puin-Chingri",
+  "ingredirents":["1 tsp PanchPhoron","1 tsp Red Chilli Powder","1/2 tsp Turmeric","as per taste Water (Warm)","2-3 tbsps Shredded Coconut: Any- Fresh or Desiccated","4 tbsps Mustard Oil: (Mandatory)"],
+        "cookingMethods":"6-8 Prawns/Shrimps: Shelled & Veined- (Lightly sautéed with some salt & turmeric).250-300 gms Basalle Alba Spinach/Puin Shaak- Commonly known as the Malabar Spinach in India- though both aren’t the same…however it belongs to the same family/species)",
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -818,13 +795,17 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+      
+"recipeTitle": " Cauliflower Korma",
+"ingredirents":["1 medium size cauliflower","1 medium size onion","5-6 garlic pods","2 inch ginger","4 green chillies","9-10 cashew nuts"],
+        "cookingMethods":"Korma is a mild, coconut milk–based curry, a great way to introduce more complex and fragrant spices to your cooking. Our plant-forward version is simple to.",
+
+
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
       {
@@ -834,13 +815,15 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         " like": 6,
         "numberofRecipes": 60,
-        "recipeTitle": "Dimer Kosha",
         "chef": {
           "name": "Shelly Nuruzzaman",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+      
+  "recipeTitle": "Chotpoti ",
+  "ingredirents":["200 grams boiled matar","1 tablespoon red chilli powder","1 tablespoon Panch phoron","1 tablespoon jeera","10 cloves","10 black pepper"],
+      "cookingMethods":"1 and 1/2 cup of whitevatana or white peas , soaked in water overnight with 1/2 tea spoon baking soda.1 tbl spoon – 1 and 1/2 tbl spoon Chat Masala1 and 1/2 tea spoon dry roasted cumin powder ( bhaja jeera gura )1 tea spoon coarsly grounded lightly roasted whole coriander powder ( asto dhonia gura )",
         "details": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
       },
 
@@ -856,13 +839,15 @@
       "cooking_rating": { "number": 4.5, "badge": "Excellent" },
       "like": 4,
       "numberofRecipes": 80,
-      "recipeTitle": "Alu Chokha",
       "chef": {
         "name": "Kiran Jethwa",
         "experience":6,
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
       },
-      "ingredirents":[],
+      "recipeTitle": "Thai Soup",
+      "ingredirents":["1 cup Chicken breast","Half cup prawns","2 eggs","4 slices Thai ginger or normal ginger","4-5 Green chillies","1 stick Lemon grass - Finley chopped","3 tbsp tomato ketchup"],
+            "cookingMethods":"Place the carrots, red pepper, mushrooms, chicken, curry paste, sugar and broth into a 6 quart Instant Pot.Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 4 minutes (timer will begin counting down once pressure is reached- it takes about 15 minutes). When done, press Cancel and use the quick release method to release the pressure.",
+    
       "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
       },
 
@@ -872,13 +857,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like": 4,
         "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
         "chef": {
           "name": "Kiran Jethwa",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Kacchi Biryani",
+ "ingredirents":["1 1/2 kg chicken","1 teaspoon ginger paste","2 teaspoon garlic paste","3-4 dry red chilli","2-3 stick cinnamon, half inches each","4-5 green cardamom","1 teaspoon cumin"],
+        "cookingMethods":"Prepare the fried onions by deep-frying in hot oil. Separate the strands of the sliced onions with your hands. Keep the flame low to medium all time, stir in between to fry evenly and fry till you see the onions changing shades for about 4 mins. Remove the onions with a slotted spoon on time before they get burnt. The onions will continue to cook even when you take them out, so remove them when you see the golden light brown shade. Spread the fried onions on a paper towel to drain the excess oil (It will become crispy as it cools). Let it cool completely before storing it in an airtight box and in the freezer.",
         "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
       },
 
@@ -888,13 +874,16 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like": 4,
         "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
         "chef": {
           "name": "Kiran Jethwa",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": " Fried Eggplant",
+        "ingredirents":["2 medium size Eggplant","Salt as required","1/4 teaspoon brown sugar","1 teaspoon turmeric powder","1 1/2 tsp red chilli powder"],
+                "cookingMethods":"Wash the eggplants and slice them into 1/2-inch slices. Lay the eggplants on a platter lined with paper towels and sprinkle them with salt. Allow them to rest for about 30 minutes, until they've released their moisture. Pat theslices with paper towels, turn  themoverand repeat on the other side.",
+       
+       
         "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
       },
 
@@ -904,13 +893,16 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like": 4,
         "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
         "chef": {
           "name": "Kiran Jethwa",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Maggi Spicy mixed Fried Rice ",
+        "ingredirents":["1 Maggi noodles","1.5 cup chinigura rice","2 packets Maggi shaad e magic masala","1 large boiled egg chopped in small pieces","1/2 cup Julian cut chicken","Soya sauce as required","1 teaspoon lemon juice"],
+         "cookingMethods":"Use a Large Wok or Large, Deep Pan. You’ll want to use a wok that’s quite large in order to allow the rice plenty of room to spread out and fry without overcooking. It also allows for easy tossing and mixing without ingredients spilling over or falling to the floor. Work Quickly. Have your ingredients measured, chopped, and ready to go. Allow the wok to heat up completely. Then work quickly, keeping the ingredients moving to cook and combine so that they do not char or burn. ",
+       
+       
         "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
       },
 
@@ -920,13 +912,14 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like": 4,
         "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
         "chef": {
           "name": "Kiran Jethwa",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Bhuri Bhuna",
+        "ingredirents":["2 cups boiled and chopped Beef Tripe","1 cup chopped cube potatoes (optional)","3 tablespoon chopped onions","3 dry red chillies","3 tablespoon mustard oil","1.5 teaspoon termeric powder","2 teaspoon red chilli powder","3 teaspoon Coriander powder","2 teaspoon cumin powder"],
+        "cookingMethods":"Clean the beef stomach well 5 to 6 times with hot water and boil them with ½ teaspoon turmeric, 1 bay leaf and ½ tablespoon salt. I prefer to use pressure cooker to boil he stomach. It will need 4 whistles to boil the beef stomach.",
         "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
       },
 
@@ -936,78 +929,16 @@
         "cooking_rating": { "number": 4.5, "badge": "Excellent" },
         "like": 4,
         "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
         "chef": {
           "name": "Kiran Jethwa",
           "experience":6,
           "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
         },
-        "ingredirents":[],
+        "recipeTitle": "Khurbo",
+        "ingredirents":["1 chicken breast","1/2 tsp. salt","1/4 tsp. turmeric powder","1/4 tsp. red chili powder","1 tsp. oil","3-4 dry red chilies","4-5 garlic cloves","1 tsp. lemon juice or to taste","pinch salt (opt)"],
+               "cookingMethods":"Heat butter in pan and add garlic paste in it. Sauté for a min.Add all the vegetables and stir fry for 5 min.Add salt, white pepper and oregano in it.Add milk in pan and let it come to a boil.",
         "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
-      },
-  
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "recipe_id": "6",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
-        "chef": {
-          "name": "Kiran Jethwa",
-          "experience":6,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
-      },
-
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "recipe_id": "6",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
-        "chef": {
-          "name": "Kiran Jethwa",
-          "experience":6,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
-      },
-
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "recipe_id": "6",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
-        "chef": {
-          "name": "Kiran Jethwa",
-          "experience":6,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
-      },
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "recipe_id": "6",
-        "cooking_rating": { "number": 4.5, "badge": "Excellent" },
-        "like": 4,
-        "numberofRecipes": 80,
-        "recipeTitle": "Alu Chokha",
-        "chef": {
-          "name": "Kiran Jethwa",
-          "experience":6,
-          "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg"
-        },
-        "ingredirents":[],
-        "details": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
-      }  
+      }
     
   ]
   
